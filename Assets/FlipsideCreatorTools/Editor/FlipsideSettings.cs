@@ -9,7 +9,7 @@ public class FlipsideSettings : ScriptableObject {
 	/// <summary>
 	/// Increment this when we release new Creator Tools updates.
 	/// </summary
-	public static readonly string creatorToolsVersion = "2023.1.3-stable";
+	public static readonly string creatorToolsVersion = "2023.1.4-stable";
 
 	/// <summary>
 	/// Update this when we upgrade Unity versions.
